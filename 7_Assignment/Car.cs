@@ -2,8 +2,6 @@ using System;
 
 public class Car
 {
-
-
     public string Carbrand;
     public string Model;
     public string Acceleration;
